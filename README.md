@@ -32,7 +32,7 @@ https://stellarburgers.nomoreparties.site/
 - Формулирование серых зон
 - Тестирование на основе ТПР
 - Попарное тестирование
-
+---
 ### Веб-приложение Kittygram
 https://kittygram-frontend-5.prakticum-team.ru/
 
