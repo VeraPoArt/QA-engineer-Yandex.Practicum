@@ -19,7 +19,8 @@
 ---
 ### Веб-приложение Stellar Burgers
 https://stellarburgers.nomoreparties.site/
-**март 2023**
+
+**Март 2023**
 - Функциональное тестирование (black box testing)
 - Mind map
 - Декомпозиция требований
