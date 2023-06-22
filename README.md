@@ -1,4 +1,4 @@
-
+![logo (1)](https://github.com/VeraPoArt/QA-engineer-Yandex.Practicum/blob/89847114dde317aae01a837e1a460616f0fe8d65/project%2001/76625237635527.5746e93adbb1b.jpg)
 # QA-engineer-Yandex.Practicum
 ### Веб-приложение ЯндексМаршруты 1.0.
 **Январь 2023**
