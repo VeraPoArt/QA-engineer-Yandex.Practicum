@@ -1,1 +1,14 @@
+mkdir generallogs
+cp //var/www/backend/packages/main/logs/combined.log generallogs
+cd generallogs
+mv combined.log logs1.log
+cd ..
+cp //var/www/backend/packages/secondary/build/logs/combined.log generallogs
+mv combined.log logs2.log
+grep INFO /home/morty/generallogs/logs1.log >> info.log
+grep INFO /home/morty/generallogs/logs2.log >> info.log
+
+
+# для проверки
+cat info.log
 
